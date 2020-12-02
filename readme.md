@@ -1,0 +1,1 @@
+This python script will plot the distance traveled each day based on the location history data that is exported from Google Takeout.

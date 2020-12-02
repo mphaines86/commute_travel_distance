@@ -1,0 +1,4 @@
+# avoids uploading personal data
+/Location History.json
+/travel_data.png
+/Semantic Location History/
